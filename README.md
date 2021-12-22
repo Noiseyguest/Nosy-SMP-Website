@@ -3,3 +3,4 @@ This is all the code that was needed to make a small static website for my perso
 If you just happen to stumble upon this, just leave, it's not worth your time unless you wanna view the code.
 
 **BIG CHANGES COMING SOON**
+**WILL MAkE CHANGES AFTER EXAM fINISHES**
